@@ -1,0 +1,16 @@
+[
+{
+  "modid": "invspotter",
+  "name": "Invspotter",
+  "description": "Inventory spy mod for admins, can see baubles inventories.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Terminator_NL"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
